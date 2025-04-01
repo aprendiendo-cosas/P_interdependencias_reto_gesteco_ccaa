@@ -6,84 +6,40 @@
 > + **_Autor_**: Curro Bonet-García (fjbonet@uco.es)
 > + **Duración**: Unas 2 horas.
 
-![portada](https://raw.githubusercontent.com/aprendiendo-cosas/P_descomposicion_reto_gesteco_ccaa/main/imagenes/portada.png)
+![portada](https://raw.githubusercontent.com/aprendiendo-cosas/P_interdependencias_reto_gesteco_ccaa/main/imagenes/portada.png)
 
 
 
 ## Objetivos 
 
-En esta fase abordaremos la descomposición del reto complejo asignado en componentes o problemas más manejables. La descomposición funcional es una técnica bien documentada para abordar problemas complejos. La evidencia demuestra quqe dividir un problema en partes más pequeñas ayuda a mejorar la comprensión y facilita la identificación de soluciones viables. Los objetivos concretos de esta fase son:
+Después de completar las tareas anteriores, en esta etapa trataremos de empezar a generar una visión general sobre el reto socioecológico asignado. En las fases anteriores hemos trabajado con los elementos que conforman el reto. Aquí trabajaremos una visión sintética.
 
-- Identificar los componentes principales del problema asignado.
-- Utilizar la información recopilada hasta ahora para descomponer el reto en otros problemas más sencillos de formular.
-- Conectar los problemas más sencillos con cuestiones ecológicas, sociales o ambientales ya conocidas. 
-- Conectar los problemas identificados con los actores ya identificados en los pasos anteriores y con sus intereses.
+Los objetivos de aprendizaje son:
+
+- Reconocer los elementos estructurales y funcionales del reto asignado.
+- Identificar las relaciones existentes entre los elementos anteriores.
+- Entrenar la capacidad de síntesis mediante la creación de un esquema que contenga los elementos fundamentales del problema socioecológico que estamos abordando.
+- Desarrollar una comprensión profunda de las relaciones causales y las interdependencias entre los diversos elementos del sistema socioecológico. 
 
 
 
 ## ¿Cómo lo hacemos? ¿Qué resultados esperamos?
-La metodología para trabajar en esta fase se basa en los siguientes pasos que se describen con detalle en las siguientes secciones:
+En esta etapa trabajamos con los resultados generados en las fases anteriores. El objetivo es generar un esquema o diagrama que contenga los siguientes elementos:
 
-+ Identificación de componentes principales.
-+ Caracterización de componentes principales.
-+ Identificación de obstáculos.
++ Principales componentes del ecosistema, es decir, de la parte "natural" del socioecosistema analizado. Estos componentes serán: productores primarios, herbívoros, carnívoros, etc.
++ Servicios ecosistémicos generados. Se indicarán los principales servicios ecosistémicos generados por el ecosistema. Estos servicios se mostrarán en el diagrama cerca de los elementos estructurales que los proveen.
++ Actores identificados en la segunda fase del trabajo. Se mostrarán los principales actores y sus relaciones con otros elementos en el diagrama dará idea de sus intereses. 
++ Relaciones entre los elementos anteriores. Es decir, se trata de identificar cómo se relacionan entre sí los elementos anteriores. Esto implica, por ejemplo, relacionar a los productores primarios del ecosistema con los consumidores de distinto tipo que hay en cada caso. También se establecerán relaciones entre los actores humanos y los elementos del ecosistema. 
++ Conflictos. En el diagrama también se pondrán de manifiesto los principales problemas o conflictos identificados entre los actores y el ecosistema.
++ Posibles puntos de apalancamiento. Estos se definen como las partes del esquema en donde las intervenciones pueden tener un mayor impacto. Esto nos servirá para realizar propuestas en las siguientes fases.
 
-### Identificación de componentes principales
-
-En esta fase deberemos dividir el problema complejo general en otros más sencillos que sean más manejables o acotables. Esto nos ayudará a identificar aspectos del reto que pueden ser abordados con el conocimiento del que disponemos. En la identificación de estos "subproblemas" juegan un papel importante los actores identificados en la fase anterior.
-
-A modo de ejemplo, identificaremos los componentes principales del siguiente reto complejo: ¿Cómo podemos mejorar la motivación de los estudiantes de ciencias ambientales de la UCO? 
-
-Para identificar componentes de este reto debemos preguntarnos por las variables o elementos que participan en dicho reto. En este caso podrían ser los siguientes:
-
-- La motivación depende del interés previo en la titulación. Por tanto, un problema más manejable sería: *El porcentaje de estudiantes que eligen esta titulación en primer lugar es bajo.*
-- También sabemos que la motivación baja si los estudiantes no son tratados adecuadamente por algunos profesores. Por tanto, un problema manejable sería: *Algunos profesores no tienen suficiente estima por los estudiantes de ambientales.*
-- Por último (hay muchos más, pero en este ejemplo nos quedaremos aquí), sabemos que la sobrecarga de trabajo con poco impacto en el aprendizaje baja la motivación. Tener muchas tareas hace que estudiar se convierta en una carrera de obstáculos. Por tanto, un problema más manejable sería: *Hay poca coordinación en las asignaturas del grado y eso implica sobrecarga inecesaria de tareas.* 
-
-En el caso de los retos socioecológicos que tenéis que abordar, se podría seguir un proceso parecido.
+De manera 
 
 
 > [!TIP] 
-> *El resultado de esta etapa es un texto enumeranado los problemas más manejables y describiendo sus características principales. También se puede crear un mapa mental con dichos problemas.*
+> *El resultado de esta etapa es un diagrama parecido al que se muestra a continuación. En dicho diagrama solo se indican algunos de los elementos descritos anteriormente. Deberéis incorporar el resto y adaptar su estructura al ecosistema en el que estáis trabajando. El esquema se puede descargar aquí y se abre con la aplicación Draw.io*
 
 
-
-### Caracterización de los componentes principales de cada problema manejable
-
-Este segundo paso implica caracterizar cada uno de los problemas identificados anteriormente desde el punto de vista ecológico y social. Se trata de indicar qué elementos sociales y ecológicos participan en cada uno de los problemas "menores" descritos anteriormente.
-
-Por ejemplo, si uno de los retos manejables fuera *Los conejos se comen los olivos*, los componentes ecológico y social serían:
-
-+ Componentes ecológicos:
-  + Las poblaciones de conejos depredan los olivares porque la sequía ha hecho que los pastos sean escasos.
-  + En los últimos años, los cultivos de olivo se han extendido mucho y han reducido la superficie de pasto y de matorral.
-+ Componentes sociales:
-  + Los agricultores ven peligrar su producción por los conejos. 
-  + Los ecologistas ponen de manfiesto el problema.
-  + La administración ambiental se encarga de tramitar las solicitudes de caza de conejos.
-
-
-
-> [!TIP] 
-> *El resultado de esta etapa se incorporará al archivo de texto anterior o al mapa mental que vayáis elaborando.*
-
-
-
-### Identificación de obstáculos y oportunidades
-
-El último paso de esta fase implica asignar a cada una de las componentes anteriores uno o varios obstáculos y oportunidades. La idea es que seamos capaces de pensar en limitaciones para resolver el problema y también en oportunidades que surgen. Siguiendo con el ejemplo anterior del conejo, tendríamos lo siguiente
-
-- Componente ecológica: Las poblaciones de conejos depredan los olivares porque la sequía ha hecho que los pastos sean escasos.
-  - Obstáculos para resolver el problema:
-    - No es fácil buscar alternativa para que se alimenten los conejos.
-    - Los agricultores no aceptarán medidas que no impliquen reducir las poblaciones de conejos.
-  - Oportunidades:
-    - Quizás este problema sería una oportunidad para involucrar a los cazadores en la resolución de un problema ambiental.
-    - También puede ser una buena oportunidad para concienciar a la población de los problemas que genera la sustitución de hábitats naturales por cultivos.
-
-
-> [!TIP] 
-> *De nuevo el resultado de esta fase se incorpora al texto o al mapa mental elaborado anteriormente.*
 
 
 
@@ -93,10 +49,10 @@ El último paso de esta fase implica asignar a cada una de las componentes anter
 
 ****
 
-[Aquí](https://github.com/aprendiendo-cosas/P_reconocimiento_reto_gesteco_ccaa/archive/refs/tags/2024_2025.zip) puedes descargar un archivo .zip que contiene este guión en formato html y todo el material que incluye.
+[Aquí](https://github.com/aprendiendo-cosas/P_interdependencias_reto_gesteco_ccaa/archive/refs/tags/2024_2025.zip) puedes descargar un archivo .zip que contiene este guión en formato html y todo el material que incluye.
 
 ****
-Haz click [aquí](https://github.com/aprendiendo-cosas/P_reconocimiento_reto_gesteco_ccaa/releases) para ver cómo ha cambiado este guión en los distintos cursos académicos.
+Haz click [aquí](https://github.com/aprendiendo-cosas/P_interdependencias_reto_gesteco_ccaa/releases) para ver cómo ha cambiado este guión en los distintos cursos académicos.
 
 ****
  <p xmlns:cc="http://creativecommons.org/ns#" >El contenido de este repositorio se puede utilizar bajo la siguiente licencia:  <a  href="https://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1"  target="_blank" rel="license noopener noreferrer"  style="display:inline-block;">CC BY-NC-SA 4.0<img  style="height:22px!important;margin-left:3px;vertical-align:text-bottom;"   src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"  alt=""><img  style="height:22px!important;margin-left:3px;vertical-align:text-bottom;"   src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"  alt=""><img  style="height:22px!important;margin-left:3px;vertical-align:text-bottom;"   src="https://mirrors.creativecommons.org/presskit/icons/nc.svg?ref=chooser-v1"  alt=""><img  style="height:22px!important;margin-left:3px;vertical-align:text-bottom;"   src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1"  alt=""></a></p> 

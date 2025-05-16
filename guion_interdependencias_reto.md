@@ -26,12 +26,12 @@ Los objetivos de aprendizaje son:
 ## ¿Cómo lo hacemos? ¿Qué resultados esperamos?
 En esta etapa trabajamos con los resultados generados en las fases anteriores. El objetivo es generar un esquema o diagrama que contenga los siguientes elementos:
 
-+ Principales componentes del ecosistema, es decir, de la parte "natural" del socioecosistema analizado. Estos componentes serán: productores primarios, herbívoros, carnívoros, etc.
-+ Servicios ecosistémicos generados. Se indicarán los principales servicios ecosistémicos generados por el ecosistema. Estos servicios se mostrarán en el diagrama cerca de los elementos estructurales que los proveen.
-+ Actores identificados en la segunda fase del trabajo. Se mostrarán los principales actores y sus relaciones con otros elementos en el diagrama dará idea de sus intereses. 
-+ Relaciones entre los elementos anteriores. Es decir, se trata de identificar cómo se relacionan entre sí los elementos anteriores. Esto implica, por ejemplo, relacionar a los productores primarios del ecosistema con los consumidores de distinto tipo que hay en cada caso. También se establecerán relaciones entre los actores humanos y los elementos del ecosistema. 
-+ Conflictos. En el diagrama también se pondrán de manifiesto los principales problemas o conflictos identificados entre los actores y el ecosistema.
-+ Posibles puntos de apalancamiento. Estos se definen como las partes del esquema en donde las intervenciones pueden tener un mayor impacto. Esto nos servirá para realizar propuestas en las siguientes fases.
++ Principales componentes del ecosistema, es decir, de la parte "natural" del socioecosistema analizado. Estos componentes serán: productores primarios, herbívoros, carnívoros, etc. En el diagrama de ejemplo que se muestra abajo, estos elementos se represenan como rectángulos de color morado.
++ Servicios ecosistémicos generados. Se indicarán los principales servicios ecosistémicos generados por el ecosistema. Estos servicios se mostrarán en el diagrama cerca de los elementos estructurales que los proveen. En el esquema inferior esto se representa como rectángulos de color naranja.
++ Actores identificados en la segunda fase del trabajo. Se mostrarán los principales actores y sus relaciones con otros elementos en el diagrama dará idea de sus intereses.  Los actores no se representan en el esquema de ejemplo, pero podrían tener color morado como los elementos estructurales del ecosistema. U otro color a elegir.
++ Relaciones entre los elementos anteriores. Es decir, se trata de identificar cómo se relacionan entre sí los elementos anteriores. Esto implica, por ejemplo, relacionar a los productores primarios del ecosistema con los consumidores de distinto tipo que hay en cada caso. También se establecerán relaciones entre los actores humanos y los elementos del ecosistema. En el caso del ejemplo inferior, el grosor de las líneas indica la intensidad de la relación en términos de transferencia de biomasa entre un elemento y otro de los conectaos.
++ Conflictos. En el diagrama también se pondrán de manifiesto los principales problemas o conflictos identificados entre los actores y el ecosistema. No se muestran conflictos en el esquema inferior, pero podrían ponerse, por ejemplo, en la relación que hay entre cazadores y depredadores.
++ Posibles puntos de apalancamiento. Estos se definen como las partes del esquema en donde las intervenciones pueden tener un mayor impacto. Esto nos servirá para realizar propuestas en las siguientes fases. Un punto de apalancamiento en el ejemplo utilizado (sabana africana) podría ser la cantidad de vacas que tienen los Masai.
 
 
 

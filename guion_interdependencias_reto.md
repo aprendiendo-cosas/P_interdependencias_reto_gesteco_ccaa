@@ -33,7 +33,7 @@ En esta etapa trabajamos con los resultados generados en las fases anteriores. E
 + Conflictos. En el diagrama también se pondrán de manifiesto los principales problemas o conflictos identificados entre los actores y el ecosistema.
 + Posibles puntos de apalancamiento. Estos se definen como las partes del esquema en donde las intervenciones pueden tener un mayor impacto. Esto nos servirá para realizar propuestas en las siguientes fases.
 
-De manera 
+
 
 
 > [!TIP] 
